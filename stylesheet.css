@@ -1,5 +1,5 @@
 body {
-  background-color: rgb (59,89,152);
+  background: rgb (59,89,152);
 }
 
 h1 {
@@ -23,14 +23,12 @@ h3 {
 }
 
 p {
+  text-aligh: center;
   font-family:"Sans-serif", verdana;
   font-weight: bold;
 }
 
-img {
-  text-align: center;
-  
-}
+
   
   
   
