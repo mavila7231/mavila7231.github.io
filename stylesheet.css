@@ -1,5 +1,5 @@
 body {
-  background-color: rbg (59,89,152);
+  background-color: rgb (59,89,152);
 }
 
 h1 {
@@ -14,8 +14,11 @@ h3 {
   font-family:"Sans-serif", verdana;
   font-weight: bold;
   font-size: 14px;
-  border-style: solid;
-  border-color: red;
+  border-style: double;
+  width: 300px;
+  padding: 10px;  
+  border: 2px solid red;
+  
   
 }
 
@@ -23,5 +26,13 @@ p {
   font-family:"Sans-serif", verdana;
   font-weight: bold;
 }
+
+img {
+  text-align: center;
+  
+}
+  
+  
+  
 
 
