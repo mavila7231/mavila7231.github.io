@@ -1,1 +1,13 @@
+body {
+  background-color: rbg(59,89,152);
+}
+
+h1 {
+  text-align: center; 
+  font-family: "Sans-serif", verdana;
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+
 
