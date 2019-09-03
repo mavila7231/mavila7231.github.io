@@ -1,5 +1,5 @@
 body {
-  background: lightblue; 
+  background: rgb (59,89,152); 
 }
 
 h1 {
@@ -7,6 +7,7 @@ h1 {
   font-family: "Sans-serif", verdana;
   font-size: 40px;
   font-weight: bold;
+  text-color: rgb (180,180,180);
   
 }
 
@@ -22,11 +23,15 @@ h3 {
 }
 
 p {
-  text-aligh: center;
+  text-align: center;
   font-family:"Sans-serif", verdana;
   font-weight: bold;
+  text-color: rgb (180,180,180); 
 }
-
+br {
+  text-align: center;
+  
+}
 
 table, th, td {
   border: 1px solid black;
@@ -34,6 +39,12 @@ table, th, td {
   
 }
 
+img {
+  
+  style= float:center;
+  
+  
+}
   
   
   
