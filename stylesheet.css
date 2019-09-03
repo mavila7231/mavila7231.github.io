@@ -7,7 +7,7 @@ h1 {
   font-family: "Sans-serif", verdana;
   font-size: 40px;
   font-weight: bold;
-  text-color: #F5F5F5;
+  color: #F5F5F5;
   
 }
 
@@ -18,7 +18,7 @@ h3 {
   border-style: double;
   width: 300px;
   padding: 10px;  
-  text-color: #F5F5F5;
+  color: #F5F5F5;
  
 }
 
@@ -26,13 +26,13 @@ p {
   text-align: center;
   font-family:"Sans-serif", verdana;
   font-weight: bold;
-  text-color: #F5F5F5; 
+  color: #F5F5F5; 
 }
 
 
 table, th, td {
   border: 1px solid black;
-  text-color: #F5F5F5;
+  color: #F5F5F5;
 }
   
 
