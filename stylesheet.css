@@ -7,7 +7,7 @@ h1 {
   font-family: "Sans-serif", verdana;
   font-size: 40px;
   font-weight: bold;
-  color: #F5F5F5;
+  color: #d4dae3;
   
 }
 
@@ -18,7 +18,7 @@ h3 {
   border-style: double;
   width: 300px;
   padding: 10px;  
-  color: #F5F5F5;
+  color: #d4dae3;
  
 }
 
@@ -26,24 +26,28 @@ p {
   text-align: center;
   font-family:"Sans-serif", verdana;
   font-weight: bold;
-  color: #F5F5F5; 
+  color: #d4dae3; 
 }
 
 
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid lightred;
   color: #F5F5F5;
 }
 
 div {
-  color: #F5F5F5
+  color: #d4dae3
 }
   
 br {
-  color: #F5F5F5
+  color: #d4dae3
 }
   
-
+footer {
+  
+  color: #d4dae3
+}
+  
 
 
   
