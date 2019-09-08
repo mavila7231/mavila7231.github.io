@@ -10,8 +10,9 @@ h1 {
   font-family: "Sans-serif", verdana;
   font-size: 40px;
   font-weight: bold;
+  border-style: solid;
   color: #d4dae3;
-  border-style: solid
+  
   
 }
 
