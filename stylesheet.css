@@ -11,7 +11,8 @@ h1 {
   font-size: 40px;
   font-weight: bold;
   color: #d4dae3;
-  background-color:#d4dae3;
+  border-style: solid
+  
 }
 
 h3 {
@@ -34,15 +35,12 @@ p {
 
 
 table, th, td {
-  border: 1px solid #d44d1f;
+  border: 3px solid #d44d1f;
     color: #d4dae3;
+  
   
 }
 
-div {
-  color: #d4dae3
-}
-  
 br {
   color: #d4dae3
 }
