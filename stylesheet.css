@@ -10,7 +10,8 @@ h1 {
   font-family: "Sans-serif", verdana;
   font-size: 40px;
   font-weight: bold;
-  border-style: solid;
+  border-style: solid; 
+  border-color: #d44d1f
   color: #d4dae3;
   
   
@@ -36,8 +37,9 @@ p {
 
 
 table, th, td {
-  border: 3px solid #d44d1f;
+  border: 5px solid #d44d1f;
     color: #d4dae3;
+  font-weight: bold;
   
   
 }
