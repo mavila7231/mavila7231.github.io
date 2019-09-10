@@ -39,13 +39,8 @@ table, th, td {
   border: 2px solid #d44d1f;
     color: #d4dae3;
   font-weight: bold;
-  
-  
 }
 
-br {
-  color: #d4dae3
-}
   
 footer {
   
@@ -56,7 +51,11 @@ a {
   color: #d4dae3;
 }
 
-  
+ img {
+   padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+} 
   
   
 
