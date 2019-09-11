@@ -17,6 +17,8 @@ h1 {
   font-family: "Sans-serif", verdana;
   font-size: 40px;
   font-weight: bold;
+  border-style: solid; 
+  border-color: #d44d1f;
 }
 
 h3 {
@@ -43,13 +45,12 @@ th, td {
   font-weight: bold;
 }
 
-tr {}
 
-table { border-color: #020202;
 
-	border: 1px solid #020202;
+table { border-color: #d4dae3;
+
+border: 1px solid #d4dae3;
 	
-
 }
 
 h2{
