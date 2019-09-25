@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: #1BC1A5;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+}
+
+h1 {
+	background-color: #EDEC57;
+	
+}
+
+table {
+	border-color: #EDEC57;
+	border-width: medium;
+	background-color: lightgreen;
+	align-content: center;
+}
+
+ul {text-align: center;
+
+}
+
+h3 {
+	background-color: #EDEC57;
+	text-align: center;
+}
+
+
+p {
+	font-size: 16px;
+	font-weight: 300;
+}
+
+input[type=text] {
+  border: 2px solid red;
+  border-radius: 4px;
+	
+}
+
+input[type=email] {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+input[type=submit] {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+textarea { border: 2px solid red; 
+
+}
